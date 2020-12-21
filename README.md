@@ -57,3 +57,8 @@ Dokumentasi Instalasi Ubuntu Server
 ### Network SpeedTest
 
 1. `curl -s https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py | python -1`
+
+## Install Oracle
+
+1. <https://blogs.oracle.com/opal/pecl-install-prompts-explained,-with-particular-reference-to-oci8>
+2. <https://www.nandaabiz.com/instalasi-oracle-client-oci8-di-ubuntu-20-04-berbasis-php-7-4/>
