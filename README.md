@@ -18,11 +18,6 @@ Dokumentasi Instalasi Ubuntu Server
 2. Cek IP `ip addr show`
 3. Browser: `https://ip-address:9090`
 
-### Webmin
-
-1. <https://www.digitalocean.com/community/tutorials/how-to-install-webmin-on-ubuntu-20-04-id>
-2. <https://bobcares.com/blog/webmin-add-domain/>
-
 #### BIND DNS
 
 1. <https://serverspace.io/support/help/configure-bind9-dns-server-on-ubuntu/>
