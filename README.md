@@ -7,7 +7,7 @@ Dokumentasi Instalasi Ubuntu Server
 1. `cd /etc/netplan`
 2. `sudo touch 01-netcfg.yaml`
 3. `sudo nano 01-netcfg.yaml`
-4. <https://www.techrepublic.com/article/how-to-configure-a-static-ip-address-in-ubuntu-server-18-04/>
+4. <https://www.linuxtechi.com/assign-static-ip-address-ubuntu-20-04-lts/>
 5. <https://linuxize.com/post/how-to-configure-static-ip-address-on-ubuntu-18-04/>
 
 ## GUI Server
