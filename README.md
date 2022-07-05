@@ -18,6 +18,11 @@ Dokumentasi Instalasi Ubuntu Server
 2. Cek IP `ip addr show`
 3. Browser: `https://ip-address:9090`
 
+### Postgres
+1. https://www.cherryservers.com/blog/how-to-install-and-setup-postgresql-server-on-ubuntu-20-04
+2. https://serverfault.com/questions/269968/forgot-passwords-for-postgresql-users-how-do-i-login
+3. https://citizix.com/postgres-create-user-create-database-and-manage-access/
+
 #### BIND DNS
 
 1. <https://serverspace.io/support/help/configure-bind9-dns-server-on-ubuntu/>
